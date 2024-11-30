@@ -1,6 +1,6 @@
 function main(dtoIn) {
   const firstNamesMale = [
-    "Jan00",
+    "Jan",
     "Petr",
     "Lukáš",
     "Martin",
